@@ -16,7 +16,7 @@ I have set-up configuration for:
 # What have you done to contribute to your project?
 
 - The aforementioned 'template' project will be used as a basis for other codebases created by our organisation. 
-- I refactored a proof-of-concept prototype to use `async`-`await` syntax instead of `.then(...)` syntax. 
+- I refactored an organisation member's proof-of-concept prototype to use `async`-`await` syntax instead of `.then(...)` syntax. 
 In this manner, I was able to make the code much more readable, for example this strategy reduced nesting levels from >10 -> <4
 
 # Have you amended your goal? If so, how?
